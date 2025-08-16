@@ -16,7 +16,7 @@ const Navbar = () => {
         <nav>
             <Link href="/">
                 <Image src="/assets/icons/logo.svg" alt='Logo' width={32} height={32}></Image>
-                <h1>SnapCast</h1>
+                <h1>DarkCast</h1>
             </Link>
 
             {User && (
